@@ -6,7 +6,7 @@ It Works from Android 7 to Android 15
 
 **All the available functionalities are 
 **
-
+   
 - Remote control
 - Pattern+pin+passcode stealer
 - Auto Unlock screen with recorded pattern
