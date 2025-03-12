@@ -5,7 +5,7 @@ AndroRAT | Remote Administrator Tool for Android OS Hacking
 It Works from Android 7 to Android 15
 
 **All the available functionalities are 
-**
+** 
    
 - Remote control
 - Pattern+pin+passcode stealer
