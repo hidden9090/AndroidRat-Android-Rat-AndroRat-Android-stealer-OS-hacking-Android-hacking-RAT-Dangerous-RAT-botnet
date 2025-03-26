@@ -7,7 +7,7 @@ It Works from Android 7 to Android 15
 **All the available functionalities are 
 ** 
    
-- Remote control
+- Remote control 
 - Pattern+pin+passcode stealer
 - Auto Unlock screen with recorded pattern
 - Hidden control(make screen blank when using victims phones)
