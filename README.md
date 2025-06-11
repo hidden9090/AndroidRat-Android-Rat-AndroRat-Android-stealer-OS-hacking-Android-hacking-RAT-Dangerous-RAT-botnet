@@ -4,7 +4,7 @@ AndroRAT | Remote Administrator Tool for Android OS Hacking
 TEST AVAILABLE , TIMEWASTER PLS STAY AWAY DIRECT BLOCK
 
 It Works from Android 7 to Android 15 
-
+ 
 **All the available functionalities are  
 **  
    
