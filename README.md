@@ -5,7 +5,7 @@ TEST AVAILABLE , TIMEWASTER PLS STAY AWAY DIRECT BLOCK
 
 It Works from Android 7 to Android 15  
  
-**All the available functionalities are  
+**All the available functionalities are   
 **  
    
 - Remote control 
